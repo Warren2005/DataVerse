@@ -6,3 +6,9 @@ altair>=4.1
 scipy>=1.7
 scikit-learn>=1.0
 jupyterlab>=3.0
+dash==3.3.0
+plotly==6.5.0
+pandas==2.3.3
+numpy==2.3.5
+Flask==3.1.2
+gunicorn==21.2.0
