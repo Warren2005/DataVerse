@@ -333,6 +333,7 @@ def update_dashboard(start_date, end_date, x_axis, metric, scope, period_values)
 # ============================================================
 # 5. MAIN
 # ============================================================
+server = app.server
 
 if __name__ == "__main__":
     app.run(debug=True)
